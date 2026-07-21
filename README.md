@@ -1,32 +1,34 @@
-# React + TypeScript + Vite
+# Hi, I'm Rafał Korzeniowski 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+**Python Developer & Trainer** with 15+ years of experience building software, educating developers, and growing the Python community in Poland.
 
-Currently, two official plugins are available:
+## 🐍 Community Leadership
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **[PyWaw](https://pywaw.org)** — Co-organizer of Warsaw's largest Python user group (~3,000 members, 100+ meetups since 2016)
+- **[Python Summit](https://pythonsummit.org)** — Organizer of Poland's dedicated Python conference at Copernicus Science Centre
+- **[Warsaw IT Days (WDI)](https://wdi.org.pl)** — Co-organizer of a major annual IT conference in Warsaw
 
-## React Compiler
+## 🤖 Current Focus: AI Tooling
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Building open-source tools for AI-powered visual production:
 
-## Expanding the Oxlint configuration
+| Project | Description |
+|---------|-------------|
+| [ai-visual-production-toolkit](https://github.com/BoluS095/ai-visual-production-toolkit) | End-to-end pipeline for AI visual asset generation at scale |
+| [brand-asset-generator](https://github.com/BoluS095/brand-asset-generator) | Generate complete brand asset packages from a single creative brief |
+| [prompt-library](https://github.com/BoluS095/prompt-library) | Curated, battle-tested prompt templates for AI visual production |
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+## 📚 Education & Training
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+- Professional Python trainer since 2010
+- Training delivered through ALX, Codemy S.A., Imperium Szkoleniowe, and corporate programs
+- Open-source [training materials](https://github.com/BoluS095/Python---training---materials) covering fundamentals through deep learning
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+## 🛠️ Tech Stack
+
+`Python` · `FastAPI` · `Django` · `PyTorch` · `Stable Diffusion` · `LangChain` · `Docker` · `React` · `TypeScript`
+
+## 📫 Connect
+
+- 🌐 [pywaw.org](https://pywaw.org)
+- 📍 Warsaw, Poland
