@@ -1,34 +1,40 @@
-# Hi, I'm Rafał Korzeniowski 👋
+# Rafał Korzeniowski
 
-**Python Developer & Trainer** with 15+ years of experience building software, educating developers, and growing the Python community in Poland.
+**Software Engineer · Python Trainer · PyWaw Co-organizer**
 
-## 🐍 Community Leadership
+I build Python software, automation tools, and practical learning resources. My work spans developer education, API integrations, and experiments in AI-assisted production workflows.
 
-- **[PyWaw](https://pywaw.org)** — Co-organizer of Warsaw's largest Python user group (~3,000 members, 100+ meetups since 2016)
-- **[Python Summit](https://pythonsummit.org)** — Organizer of Poland's dedicated Python conference at Copernicus Science Centre
-- **[Warsaw IT Days (WDI)](https://wdi.org.pl)** — Co-organizer of a major annual IT conference in Warsaw
+## Open-source work
 
-## 🤖 Current Focus: AI Tooling
+| Project | What it does | Status |
+|---|---|---|
+| [Live Client Demos](https://github.com/BoluS095/live-client-demos) | Read-only GitHub bounty triage CLI and clearly labelled, independent sample patches with validation notes. | Demo / portfolio |
+| [AI Visual Production Toolkit](https://github.com/BoluS095/ai-visual-production-toolkit) | Parses creative briefs, validates deliverables, and normalizes visual-production parameters. | Early-stage prototype |
+| [Prompt Library](https://github.com/BoluS095/prompt-library) | Structured prompt templates and reference modifiers for AI visual work. | Resource library |
+| [Python Training Materials](https://github.com/BoluS095/Python---training---materials) | Python lessons, exercises, and worked examples for different experience levels. | Learning resource |
+| [PyWaw Community](https://github.com/BoluS095/Pywaw---Community) | Speaker guidance, meetup templates, a learning path, and community conduct resources. | Community resource |
 
-Building open-source tools for AI-powered visual production:
+### Selected engineering sample
 
-| Project | Description |
-|---------|-------------|
-| [ai-visual-production-toolkit](https://github.com/BoluS095/ai-visual-production-toolkit) | End-to-end pipeline for AI visual asset generation at scale |
-| [brand-asset-generator](https://github.com/BoluS095/brand-asset-generator) | Generate complete brand asset packages from a single creative brief |
-| [prompt-library](https://github.com/BoluS095/prompt-library) | Curated, battle-tested prompt templates for AI visual production |
+**[Bounty Triage](https://github.com/BoluS095/live-client-demos/tree/main/demos/bounty-triage)** is a read-only Python CLI that checks public GitHub issue URLs, repository archive status, issue state, and open pull requests cross-referencing an issue. It includes offline unit tests. It does not verify escrow, guarantee a bounty, or make changes to upstream repositories.
 
-## 📚 Education & Training
+## Community and teaching
 
-- Professional Python trainer since 2010
-- Training delivered through ALX, Codemy S.A., Imperium Szkoleniowe, and corporate programs
-- Open-source [training materials](https://github.com/BoluS095/Python---training---materials) covering fundamentals through deep learning
+- **PyWaw:** Co-organizer of the Warsaw Python community. [Public speaker listing](https://pywaw.org/prelegenci/).
+- **Python Summit 2026:** Listed on the programme council. [Official programme](https://pythonsummit.org/pl/).
+- **Python training:** Public training records describe my work as a Python trainer, including automation and machine-learning-related experience. [Public training record](https://uslugirozwojowe.parp.gov.pl/wyszukiwarka/uslugi/podglad?id=3900438).
 
-## 🛠️ Tech Stack
+## Technical interests
 
-`Python` · `FastAPI` · `Django` · `PyTorch` · `Stable Diffusion` · `LangChain` · `Docker` · `React` · `TypeScript`
+`Python` · `REST APIs` · `GitHub Actions` · `automated testing` · `AI/ML tooling` · `prompt engineering` · `TypeScript`
 
-## 📫 Connect
+## Working principles
 
-- 🌐 [pywaw.org](https://pywaw.org)
-- 📍 Warsaw, Poland
+- Make project maturity and limitations explicit.
+- Prefer reproducible tests and documented setup steps.
+- Keep automation read-only unless a workflow explicitly requires a write.
+- Treat third-party patches as independent samples unless they are accepted upstream.
+
+## Contact
+
+For project discussions, please open an issue in the relevant repository.
