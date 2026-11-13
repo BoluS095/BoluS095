@@ -10,9 +10,18 @@ I build Python software, automation tools, and practical learning resources. My 
 |---|---|---|
 | [Live Client Demos](https://github.com/BoluS095/live-client-demos) | Read-only GitHub bounty triage CLI and clearly labelled, independent sample patches with validation notes. | Demo / portfolio |
 | [AI Visual Production Toolkit](https://github.com/BoluS095/ai-visual-production-toolkit) | Parses creative briefs, validates deliverables, and normalizes visual-production parameters. | Early-stage prototype |
+| [Brand Asset Generator](https://github.com/BoluS095/brand-asset-generator) | Loads YAML brand briefs and plans social-media asset dimensions; image generation is not implemented. | Early-stage prototype |
 | [Prompt Library](https://github.com/BoluS095/prompt-library) | Structured prompt templates and reference modifiers for AI visual work. | Resource library |
 | [Python Training Materials](https://github.com/BoluS095/Python---training---materials) | Python lessons, exercises, and worked examples for different experience levels. | Learning resource |
 | [PyWaw Community](https://github.com/BoluS095/Pywaw---Community) | Speaker guidance, meetup templates, a learning path, and community conduct resources. | Community resource |
+
+### Automated quality checks
+
+[![AI Visual Production Toolkit tests](https://github.com/BoluS095/ai-visual-production-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/BoluS095/ai-visual-production-toolkit/actions/workflows/tests.yml)
+[![Brand Asset Generator tests](https://github.com/BoluS095/brand-asset-generator/actions/workflows/tests.yml/badge.svg)](https://github.com/BoluS095/brand-asset-generator/actions/workflows/tests.yml)
+[![PyWaw documentation checks](https://github.com/BoluS095/Pywaw---Community/actions/workflows/docs-check.yml/badge.svg)](https://github.com/BoluS095/Pywaw---Community/actions/workflows/docs-check.yml)
+
+These workflows provide automated checks for selected projects. They do not imply production readiness or adoption metrics.
 
 ### Selected engineering sample
 
