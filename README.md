@@ -2,36 +2,39 @@
 
 **Software Engineer · Python Trainer · PyWaw Co-organizer**
 
-I build Python software, automation tools, and practical learning resources. My work spans developer education, API integrations, and experiments in AI-assisted production workflows.
+I build Python software, automation tools, and practical learning resources. My public work spans developer education, community resources, API tooling, and early-stage AI-assisted production prototypes.
 
-## Open-source work
+## Open-source projects and public portfolio
 
-| Project | What it does | Status |
+| Project | Focus | Classification |
 |---|---|---|
-| [Live Client Demos](https://github.com/BoluS095/live-client-demos) | Read-only GitHub bounty triage CLI and clearly labelled, independent sample patches with validation notes. | Demo / portfolio |
-| [AI Visual Production Toolkit](https://github.com/BoluS095/ai-visual-production-toolkit) | Parses creative briefs, validates deliverables, and normalizes visual-production parameters. | Early-stage prototype |
-| [Brand Asset Generator](https://github.com/BoluS095/brand-asset-generator) | Loads YAML brand briefs and plans social-media asset dimensions; image generation is not implemented. | Early-stage prototype |
-| [Prompt Library](https://github.com/BoluS095/prompt-library) | Structured prompt templates and reference modifiers for AI visual work. | Resource library |
-| [Python Training Materials](https://github.com/BoluS095/Python---training---materials) | Python lessons, exercises, and worked examples for different experience levels. | Learning resource |
-| [PyWaw Community](https://github.com/BoluS095/Pywaw---Community) | Speaker guidance, meetup templates, a learning path, and community conduct resources. | Community resource |
+| [AI Visual Production Toolkit](https://github.com/BoluS095/ai-visual-production-toolkit) | Parses creative briefs, validates deliverables, and normalizes visual-production parameters. | MIT · Early-stage prototype |
+| [Brand Asset Generator](https://github.com/BoluS095/brand-asset-generator) | Loads YAML brand briefs and plans social-media asset dimensions; image generation is not implemented. | MIT · Early-stage prototype |
+| [Prompt Library](https://github.com/BoluS095/prompt-library) | Eight structured YAML prompt templates and visual reference modifiers. | MIT · Resource library |
+| [Python Training Materials](https://github.com/BoluS095/Python---training---materials) | Python lessons, exercises, and selected worked examples. | MIT · Learning resource |
+| [PyWaw Community](https://github.com/BoluS095/Pywaw---Community) | Speaker guidance, meetup templates, a learning path, and community conduct resources. | MIT · Community resource |
+| [Live Client Demos](https://github.com/BoluS095/live-client-demos) | Read-only GitHub bounty triage demo and clearly labelled independent sample patches. | Portfolio demo · No reuse license declared |
 
-### Automated quality checks
+The classifications above distinguish licensed open-source repositories from portfolio material without a declared reuse license. Prototype status and limitations are documented in each project's README.
+
+## Automated quality checks
 
 [![AI Visual Production Toolkit tests](https://github.com/BoluS095/ai-visual-production-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/BoluS095/ai-visual-production-toolkit/actions/workflows/tests.yml)
 [![Brand Asset Generator tests](https://github.com/BoluS095/brand-asset-generator/actions/workflows/tests.yml/badge.svg)](https://github.com/BoluS095/brand-asset-generator/actions/workflows/tests.yml)
+[![Prompt Library validation](https://github.com/BoluS095/prompt-library/actions/workflows/validate-templates.yml/badge.svg)](https://github.com/BoluS095/prompt-library/actions/workflows/validate-templates.yml)
 [![PyWaw documentation checks](https://github.com/BoluS095/Pywaw---Community/actions/workflows/docs-check.yml/badge.svg)](https://github.com/BoluS095/Pywaw---Community/actions/workflows/docs-check.yml)
 
-These workflows provide automated checks for selected projects. They do not imply production readiness or adoption metrics.
+These workflows provide automated structural, documentation, and unit-test checks for selected repositories. They do not imply production readiness, image-quality benchmarking, adoption, or downstream dependency metrics.
 
-### Selected engineering sample
+## Selected engineering sample
 
-**[Bounty Triage](https://github.com/BoluS095/live-client-demos/tree/main/demos/bounty-triage)** is a read-only Python CLI that checks public GitHub issue URLs, repository archive status, issue state, and open pull requests cross-referencing an issue. It includes offline unit tests. It does not verify escrow, guarantee a bounty, or make changes to upstream repositories.
+**[Bounty Triage](https://github.com/BoluS095/live-client-demos/tree/main/demos/bounty-triage)** is a read-only Python CLI that checks public GitHub issue URLs, repository archive status, issue state, and open pull requests cross-referencing an issue. It includes offline unit tests. It does not verify escrow, guarantee a bounty, or make changes to upstream repositories. The repository is a portfolio demonstration and currently has no declared reuse license.
 
 ## Community and teaching
 
-- **PyWaw:** Co-organizer of the Warsaw Python community. [Public speaker listing](https://pywaw.org/prelegenci/).
-- **Python Summit 2026:** Listed on the programme council. [Official programme](https://pythonsummit.org/pl/).
-- **Python training:** Public training records describe my work as a Python trainer, including automation and machine-learning-related experience. [Public training record](https://uslugirozwojowe.parp.gov.pl/wyszukiwarka/uslugi/podglad?id=3900438).
+- **PyWaw:** Publicly listed as a Python trainer and co-organizer of the Warsaw Python community. [PyWaw community profile](https://pywaw.org/prelegenci/).
+- **Python Summit 2026:** Listed on the official Programme Council. [Official programme and council](https://pythonsummit.org/pl/).
+- **Python training:** Public training records describe Python training work, including automation and machine-learning-related experience. [Public training record](https://uslugirozwojowe.parp.gov.pl/wyszukiwarka/uslugi/podglad?id=3900438).
 
 ## Technical interests
 
@@ -39,10 +42,11 @@ These workflows provide automated checks for selected projects. They do not impl
 
 ## Working principles
 
-- Make project maturity and limitations explicit.
+- Make project maturity, licensing, and limitations explicit.
 - Prefer reproducible tests and documented setup steps.
 - Keep automation read-only unless a workflow explicitly requires a write.
 - Treat third-party patches as independent samples unless they are accepted upstream.
+- Do not publish adoption, download, or dependency metrics without verifiable sources.
 
 ## Contact
 
