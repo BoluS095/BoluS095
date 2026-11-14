@@ -1,8 +1,8 @@
 # Rafał Korzeniowski
 
-**Software Engineer · Python Trainer · PyWaw Co-organizer**
+**Python projects · Automation · Open-source contributor**
 
-I build Python software, automation tools, and practical learning resources. My public work spans developer education, community resources, API tooling, and early-stage AI-assisted production prototypes.
+I build Python software, automation tools, and practical learning resources. My public repositories cover Python education, prompt engineering resources, API tooling, and early-stage AI-assisted production prototypes.
 
 ## Open-source projects and public portfolio
 
@@ -12,29 +12,23 @@ I build Python software, automation tools, and practical learning resources. My 
 | [Brand Asset Generator](https://github.com/BoluS095/brand-asset-generator) | Loads YAML brand briefs and plans social-media asset dimensions; image generation is not implemented. | MIT · Early-stage prototype |
 | [Prompt Library](https://github.com/BoluS095/prompt-library) | Eight structured YAML prompt templates and visual reference modifiers. | MIT · Resource library |
 | [Python Training Materials](https://github.com/BoluS095/Python---training---materials) | Python lessons, exercises, and selected worked examples. | MIT · Learning resource |
-| [PyWaw Community](https://github.com/BoluS095/Pywaw---Community) | Speaker guidance, meetup templates, a learning path, and community conduct resources. | MIT · Community resource |
+| [PyWaw Community Resources](https://github.com/BoluS095/Pywaw---Community) | An independently maintained collection of speaker guidance, meetup templates, a learning path, and community conduct resources. | MIT · Independent community-resource project |
 | [Live Client Demos](https://github.com/BoluS095/live-client-demos) | Read-only GitHub bounty triage demo and clearly labelled independent sample patches. | Portfolio demo · No reuse license declared |
 
-The classifications above distinguish licensed open-source repositories from portfolio material without a declared reuse license. Prototype status and limitations are documented in each project's README.
+The classifications distinguish licensed open-source repositories from portfolio material without a declared reuse license. The PyWaw-named resource repository is an independent project, not an official PyWaw repository or an endorsed community resource. Prototype status and limitations are documented in each project's README.
 
 ## Automated quality checks
 
 [![AI Visual Production Toolkit tests](https://github.com/BoluS095/ai-visual-production-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/BoluS095/ai-visual-production-toolkit/actions/workflows/tests.yml)
 [![Brand Asset Generator tests](https://github.com/BoluS095/brand-asset-generator/actions/workflows/tests.yml/badge.svg)](https://github.com/BoluS095/brand-asset-generator/actions/workflows/tests.yml)
 [![Prompt Library validation](https://github.com/BoluS095/prompt-library/actions/workflows/validate-templates.yml/badge.svg)](https://github.com/BoluS095/prompt-library/actions/workflows/validate-templates.yml)
-[![PyWaw documentation checks](https://github.com/BoluS095/Pywaw---Community/actions/workflows/docs-check.yml/badge.svg)](https://github.com/BoluS095/Pywaw---Community/actions/workflows/docs-check.yml)
+[![Independent community-resource documentation checks](https://github.com/BoluS095/Pywaw---Community/actions/workflows/docs-check.yml/badge.svg)](https://github.com/BoluS095/Pywaw---Community/actions/workflows/docs-check.yml)
 
 These workflows provide automated structural, documentation, and unit-test checks for selected repositories. They do not imply production readiness, image-quality benchmarking, adoption, or downstream dependency metrics.
 
 ## Selected engineering sample
 
 **[Bounty Triage](https://github.com/BoluS095/live-client-demos/tree/main/demos/bounty-triage)** is a read-only Python CLI that checks public GitHub issue URLs, repository archive status, issue state, and open pull requests cross-referencing an issue. It includes offline unit tests. It does not verify escrow, guarantee a bounty, or make changes to upstream repositories. The repository is a portfolio demonstration and currently has no declared reuse license.
-
-## Community and teaching
-
-- **PyWaw:** Publicly listed as a Python trainer and co-organizer of the Warsaw Python community. [PyWaw community profile](https://pywaw.org/prelegenci/).
-- **Python Summit 2026:** Listed on the official Programme Council. [Official programme and council](https://pythonsummit.org/pl/).
-- **Python training:** Public training records describe Python training work, including automation and machine-learning-related experience. [Public training record](https://uslugirozwojowe.parp.gov.pl/wyszukiwarka/uslugi/podglad?id=3900438).
 
 ## Technical interests
 
