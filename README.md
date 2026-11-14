@@ -30,6 +30,14 @@ These workflows provide automated structural, documentation, and unit-test check
 
 **[Bounty Triage](https://github.com/BoluS095/live-client-demos/tree/main/demos/bounty-triage)** is a read-only Python CLI that checks public GitHub issue URLs, repository archive status, issue state, and open pull requests cross-referencing an issue. It includes offline unit tests. It does not verify escrow, guarantee a bounty, or make changes to upstream repositories. The repository is a portfolio demonstration and currently has no declared reuse license.
 
+## Community and teaching
+
+- **PyWaw:** Publicly listed as a Python trainer and community co-organizer. [PyWaw profile](https://pywaw.org/prelegenci/).
+- **Python Summit 2026:** Listed on the official Programme Council. [Official programme and council](https://pythonsummit.org/pl/).
+- **Python training:** Public training record covering Python training and related technical skills. [PARP training record](https://uslugirozwojowe.parp.gov.pl/wyszukiwarka/uslugi/podglad?id=3900438).
+
+The public PyWaw and Python Summit listings use the spelling “Rafał Korzeniewski”; the GitHub account owner has confirmed that these listings refer to him, while the GitHub profile uses “Rafał Korzeniowski”.
+
 ## Technical interests
 
 `Python` · `REST APIs` · `GitHub Actions` · `automated testing` · `AI/ML tooling` · `prompt engineering` · `TypeScript`
