@@ -1,3 +1,5 @@
+> **NEW FRONTIER LAUNCH — [ShipZero: Next.js 15 AI Micro-SaaS Boilerplate ($2.99 vs $249 ShipFast/Makerkit)](https://github.com/BoluS095/shipzero-nextjs-ai-saas-boilerplate)**
+> Production Next.js 15 App Router + TypeScript strict + Stripe Checkout & Webhooks + HttpOnly JWT Auth + Multi-Provider AI Failover (OpenAI -> Gemini -> Anthropic) + CLAUDE.md. MIT Commercial License. **[Instant Pro ZIP Download ($2.99 ->)](https://buy.stripe.com/9B6dR81Rh2Xb0UK1B8cs81s)**
 # NordForge Studio (Norway)
 
 Building zero-bloat e-commerce performance tools, production n8n AI agent workflows, and battle-tested `CLAUDE.md` / `.cursorrules` / MCP configs.
